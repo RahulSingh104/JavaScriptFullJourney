@@ -1,0 +1,31 @@
+What is Function ? (notes in Hienglish and english both).
+
+-> kucch ,code jo app kabhi chalana chahoge to wo code chal jayega bass  usko function call karne 
+->block of code which you can reuse and run at any point of time .
+
+
+why function .
+-> jab bhi aap ko code turnt nhi chal na and sath hi sath apko us chiz ko resue bhi karna hai tab hame fnc ki need hoti hai 
+
+why we need function
+-> to reuse some code which is very long to rewrite.
+WET -> writing every thing twice or thrice.
+DRY-> don't repeat yourself. this is industry standard or daily use.
+
+how to create a function .
+-> function abc(){
+ fnc statements
+}
+
+
+let abc = ()=>{
+    fat arrow function 
+}
+
+-> Total 6 type of creating the function 
+
+
+How to call a function => abc();
+
+How to pass a parameter to a function?
+->
