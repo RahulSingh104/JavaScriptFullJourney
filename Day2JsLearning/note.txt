@@ -14,13 +14,46 @@ DRY-> don't repeat yourself. this is industry standard or daily use.
 
 how to create a function .
 -> function abc(){
- fnc statements
+    fnc statements
 }
 
+var bac = function(){
+    fnc expression
+}
 
-let abc = ()=>{
+function(){
+    // anonymous function
+}
+ ex - 
+    var arr = [1,2,3,4];
+    arr.forEach(function(){
+
+    })
+
+()=>{
     fat arrow function 
 }
+
+ex - let abc = (a)=>{
+    
+}
+abc(12);
+
+fat arrow with one Parameter 
+ -> let bbc = a =>{
+    
+}
+bbc(12);
+
+fat arrow wiht implicit return 
+
+function abd(){
+    return 12;
+}
+
+abd();
+var ans= abd();
+
 
 -> Total 6 type of creating the function 
 
@@ -28,4 +61,23 @@ let abc = ()=>{
 How to call a function => abc();
 
 How to pass a parameter to a function?
-->
+->(a,b,)
+
+Rest parameters
+-> 
+hoisting -> js mein variables and functions unko js declaration waala aprt top move kr deta hai , aur issey hi haam hoisting kahte hai .
+iife - immediate function expression 
+hofs - higher order function 
+-> ek aisa function jo yaa to return kare function nahi to accept kare function in parameter, ya fir both.
+
+cb fnc-> callback function
+-->kisi function mein jo function paass hota hai usse call karte wakt usey Callback fnc kahte hai .
+
+first class fnc 
+--> first class fnc ek darja hai jo ki js mein fncs ko mila hai , iss darje mein kaha jaata hai ki fncs ko app value ki tarah use kr sakte ho .
+
+pure fnc
+impure fnc
+global scope
+local scope
+closures

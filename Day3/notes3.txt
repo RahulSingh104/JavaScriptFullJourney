@@ -1,0 +1,25 @@
+Arrays and objects
+
+Array -> ek se jaada values ko ek sath store karne wala data structure hai 
+
+--> Array is data structure which can store multiple values all at one place .
+
+Why we use array -> ek se jada values store krne ke liye 
+
+who uses array -> devs
+where to use array -> in the js code 
+How to use array 
+how to create array 
+how to access members of array 
+
+
+
+What is object --> sirf ek tareeka hai key values pairs ko hold krne ke liye .
+
+Why object --> jab bhi aapko ek se jaada value ko " ek hi element ke baare mein store karna ho 
+
+When to make an objext --> when we want to store the info of one entity.
+
+How to create an object 
+
+
